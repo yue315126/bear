@@ -1,4 +1,4 @@
-package com.example.lxl
+package com.example.bear
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
